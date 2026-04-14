@@ -1,6 +1,40 @@
 # Compiled class file
 *.class
 
+# other project files
+*~
+*_
+*~bak
+*-bak
+*.bak
+bin
+build.properties
+.checkstyle
+chromedriver.log
+.classpath
+*cpJar*
+dependency-tree.log
+.DS_Store
+*.gpd.*
+.idea
+*.iml
+*.ipr
+*.iws
+*.log
+.metadata
+.mylar
+*.orig
+.pmd
+.project
+*.pyc
+.pydevproject
+*.rej
+.settings
+target
+marketplace
+nashorn_code_cache/
+.java-version
+
 # Log file
 *.log
 
