@@ -9,7 +9,7 @@
 
   <groupId>org.nuxeo</groupId>
   <artifactId>nuxeo-tika-converter</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>Nuxeo tika converter</name>
   <description>Adds a converter/parser based on Apache Tika</description>
   <packaging>pom</packaging>
@@ -63,7 +63,7 @@
       <dependency>
         <groupId>org.nuxeo</groupId>
         <artifactId>nuxeo-tika-converter-core</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	      <version>1.0</version>
       </dependency>
 	  
     <dependency>
