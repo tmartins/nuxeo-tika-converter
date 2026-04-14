@@ -34,6 +34,7 @@ target
 marketplace
 nashorn_code_cache/
 .java-version
+.vscode
 
 # Log file
 *.log
